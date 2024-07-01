@@ -1,0 +1,6 @@
+sensor_node/.vscode/*
+sensor_node/build/*
+sensor_node/pytest_mqtt_tcp.py
+actuator_node/.vscode/*
+actuator_node/build/*
+actuator_node/pytest_mqtt_tcp.py
